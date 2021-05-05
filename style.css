@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-size: 100%;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: cursive;
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+    font-family: cursive;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 80%;
+}
+
+p{
+    font-family: sans-serif;
+    color: black;
+}
